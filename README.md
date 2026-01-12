@@ -48,6 +48,15 @@ Key insights from the data:
 - Certain **carriers and airports** show higher delay variability
 - Congestion plays a significant role in increasing delay probability
 
+<img width="1811" height="1265" alt="image" src="https://github.com/user-attachments/assets/196b1eeb-1373-43d6-876c-ff7319d6b966" />
+
+### Carrier & Airport Variability
+- Certain **carriers and airports** exhibit higher delay variability
+- Congestion and operational inefficiencies are key contributors
+
+<img width="520" height="420" alt="image" src="https://github.com/user-attachments/assets/b0c6b4dc-006f-4e8d-afcf-0559cac82d19" />
+
+
 ---
 
 ## 🤖 Model Development
@@ -66,6 +75,11 @@ Key insights from the data:
 - F1-Score: **87%**
 - AUC-ROC: **0.91**
 
+**Classification Model Performance**
+<img width="681" height="510" alt="image" src="https://github.com/user-attachments/assets/58c19c24-9c7f-411f-a720-d15a61f0c3aa" />
+<img width="748" height="549" alt="image" src="https://github.com/user-attachments/assets/6898046f-ed6f-4a00-8c65-d3965df4cb02" />
+
+
 ➡️ Strong ability to distinguish delayed and non-delayed flights.
 
 ---
@@ -80,6 +94,14 @@ Key insights from the data:
 - MAE: **10 minutes**
 - R² Score: **79%**
 
+<img width="650" height="336" alt="image" src="https://github.com/user-attachments/assets/254bec38-eabc-4ee2-9394-7ec83564e5ff" />
+
+**Model Comparison: MAE and RMSE**
+<img width="650" height="319" alt="image" src="https://github.com/user-attachments/assets/e1e58205-be7e-47d2-ab94-b25a55a4979e" />
+
+**Model Comparison: R2 Score**
+<img width="614" height="319" alt="image" src="https://github.com/user-attachments/assets/02dbba84-e2ba-47db-9e62-ffd54fbffc21" />
+
 ➡️ Model explains most of the variance in delay duration.
 
 ---
@@ -89,6 +111,13 @@ Key insights from the data:
 - **SHAP** was used to interpret black-box models and identify influential features  
 - **Operational Actionability Index (OAI)** emphasizes controllable delay factors  
 - Helps operations teams focus on changes with maximum real-world impact
+
+**SHAP Value** 
+<img width="837" height="476" alt="image" src="https://github.com/user-attachments/assets/726f94af-bbd5-4587-8b60-629c952515fc" />
+
+**AVG OAI**
+<img width="837" height="211" alt="image" src="https://github.com/user-attachments/assets/3b7019ed-29bb-4283-91c1-496627b608a4" />
+
 
 ---
 
@@ -119,10 +148,13 @@ This project demonstrates how a **data-driven and explainable ML pipeline** can:
 ---
 
 ## 📁 Repository Structure
-📁 Optimizing-Air-Travel
-├── 📓 Optimizing Air Travel.ipynb          
-├── 📽️ Otimizing Air Travels_(Analytics).pptx 
-└── 📄 README.md                            
+<pre>
+Optimizing-Air-Travel/
+├── Optimizing Air Travel.ipynb
+├── Otimizing Air Travels_(Analytics).pptx
+└── README.md
+</pre>
+                          
 
 
 ---
