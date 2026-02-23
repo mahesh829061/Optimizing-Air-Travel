@@ -75,9 +75,11 @@ Key insights from the data:
 - F1-Score: **87%**
 - AUC-ROC: **0.91**
 
-**Classification Model Performance**
+### Classification Model Performance
 <img width="681" height="510" alt="image" src="https://github.com/user-attachments/assets/58c19c24-9c7f-411f-a720-d15a61f0c3aa" />
-###
+
+
+### 
 <img width="748" height="549" alt="image" src="https://github.com/user-attachments/assets/6898046f-ed6f-4a00-8c65-d3965df4cb02" />
 
 
@@ -97,10 +99,10 @@ Key insights from the data:
 
 <img width="650" height="336" alt="image" src="https://github.com/user-attachments/assets/254bec38-eabc-4ee2-9394-7ec83564e5ff" />
 
-###Model Comparison: MAE and RMSE
+### Model Comparison: MAE and RMSE
 <img width="650" height="319" alt="image" src="https://github.com/user-attachments/assets/e1e58205-be7e-47d2-ab94-b25a55a4979e" />
 
-###Model Comparison: R2 Score
+### Model Comparison: R2 Score
 <img width="614" height="319" alt="image" src="https://github.com/user-attachments/assets/02dbba84-e2ba-47db-9e62-ffd54fbffc21" />
 
 ➡️ Model explains most of the variance in delay duration.
@@ -113,10 +115,10 @@ Key insights from the data:
 - **Operational Actionability Index (OAI)** emphasizes controllable delay factors  
 - Helps operations teams focus on changes with maximum real-world impact
 
-###SHAP Value 
+### SHAP Value 
 <img width="837" height="476" alt="image" src="https://github.com/user-attachments/assets/726f94af-bbd5-4587-8b60-629c952515fc" />
 
-###AVG OAI
+### AVG OAI
 <img width="837" height="211" alt="image" src="https://github.com/user-attachments/assets/3b7019ed-29bb-4283-91c1-496627b608a4" />
 
 
