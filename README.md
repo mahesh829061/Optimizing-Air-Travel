@@ -169,7 +169,10 @@ Optimizing-Air-Travel/
 - Matplotlib, Seaborn  
 - Scikit-learn  
 - SHAP  
-- Jupyter Notebook  
+- Jupyter Notebook
+
+- <img width="1365" height="1561" alt="Screenshot 2025-12-19 124059" src="https://github.com/user-attachments/assets/c263dfca-f261-417d-8e0f-5585da87dc9f" />
+  
 
 ---
 
